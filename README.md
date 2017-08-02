@@ -1,3 +1,2 @@
 # hello-world
-
-Intersting things in this place...
+A new branch of chickens has been created.
